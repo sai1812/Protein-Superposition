@@ -1,0 +1,24 @@
+
+
+
+ CLUSTAL 2.1 Multiple Sequence Alignments
+
+
+Sequence format is Pearson
+Sequence 1: 1G4I         123 aa
+Sequence 2: 1MKU         123 aa
+Start of Pairwise alignments
+Aligning...
+
+Sequences (1:2) Aligned. Score:  97
+Guide tree file created:   [apple.dnd]
+
+There are 1 groups
+Start of Multiple Alignment
+
+Aligning...
+Group 1: Sequences:   2      Score:2738
+Alignment Score 808
+
+CLUSTAL-Alignment file created  [apple.aln]
+
